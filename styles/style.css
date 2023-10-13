@@ -1,0 +1,32 @@
+#cajero {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid #0070A3;
+    margin: 200px;
+}
+
+body {
+    background-color: #0070A3;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: #0070A3;;
+}
+
+p{
+    color: black;
+}
+
+button {
+    background-color: #0070A3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #004675;
+}

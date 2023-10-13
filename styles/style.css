@@ -1,5 +1,5 @@
 #cajero {
-    background-color: lightblue;
+    background: linear-gradient(to right, lightblue, #0070A3);
     padding: 20px;
     border: 2px solid #0070A3;
     margin: 200px;
